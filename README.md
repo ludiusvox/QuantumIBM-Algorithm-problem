@@ -1,6 +1,6 @@
 # QuantumIBM-Algorithm-problem
 
-This was the only code sequence out of a 2 qubit system that cave an output that was non zero because of the CNOT gate.  According to the simiulator I was supposed to recieve a 50-50 outcome of the 2 qubit system using a bit-flip or a sign error.  That is not what happened at all first problem was the IBM quantum machine transposed my code and did not enter in my original code.  Here is my original code:
+This was the only code sequence out of a 2 qubit system that cave an output that was non zero because of the CNOT gate.  According to the simiulator I was supposed to recieve a 50-50 outcome of the 2 qubit system using a bit-flip or a sign error.  That is not what happened at all first problem was the IBM quantum machine transposed my code and did not enter in my original code.  Here is my original code:  (Please view in "raw")
 --------------------------------
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
 from numpy import pi
